@@ -1,0 +1,164 @@
+::1	06/09/24 03:29PM$logsError: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:15
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:15
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:15
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:15
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:47
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:33
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:33
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:33
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:33
+Error: [2] Undefined variable $log - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:33
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:34
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: []  - :
+Error: [2] Undefined variable $undefinedVariable - C:\Xampp\htdocs\HostelManagementPHP\loger.php:35
+Error: [2] Undefined variable $errno - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errstr - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errfile - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: [2] Undefined variable $errline - C:\Xampp\htdocs\HostelManagementPHP\HostelManagementPHP\index.php:36
+Error: []  - :
+::1	06/09/24 05:01PM	User::1	06/09/24 05:01PM	User

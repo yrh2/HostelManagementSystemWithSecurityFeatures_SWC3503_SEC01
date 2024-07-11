@@ -1,0 +1,17 @@
+RewriteEngine On
+
+RewriteCond %(REQUEST_FILENAME) !-d
+RewriteCond %(REQUEST_URL) (.+)/$
+RewriteRule ^ %1[L,R-301]
+
+RewriteCond %(REQUEST_FILENAME) !-d
+RewriteCond %(REQUEST_FILENAME)\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteRule ^category/([a-zA-Z0-9-]+) category.pjp?title=$14444444444444
+RewriteRule ^post/([a-zA-Z0-9-]+) post.php?title=$1
+
+ErrorDocument 404 http://localhost/HostelManagementSystem_SWC3503_SEC01/HostelManagementSystem_SWC3503_SEC01/404.php
+ErrorDocument 500 http://localhost/HostelManagementSystem_SWC3503_SEC01/HostelManagementSystem_SWC3503_SEC01/500.php
+php_value include_path '.;C:\Xampp\php\pear;C:\Xampp\htdocs\HHostelManagementSystem_SWC3503_SEC01'
+
